@@ -14,7 +14,7 @@ themes = [
 
 fins = ['na !','et voilà !','okayyy ?',"et pis c'est tout !","et paf !",'facile...',
         'simple !','pas mal !','et ouste !','circulez !','next ?', 'pour sûr !', 'ou pas...',
-        'non mais !','nananère...','-<:)','🤣','🙃','😁','🤔','🙄','😎','😕']
+        'non mais !','nananère...','pour une fois !','-<:)','🤣','🙃','😁','🤔','🙄','😎','😕']
 
 # sélectionne un thème
 theme = themes[random.randrange(len(themes))]
